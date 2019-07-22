@@ -4,6 +4,7 @@ public class intitialTestDoc {
 	
 		int x = 0;
 		System.out.println(x);
+		System.out.println("hello");
 	
 	}
 }
